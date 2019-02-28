@@ -16,11 +16,11 @@ import { ShoppingEditComponent } from './components/shopping-list/shopping-edit/
   declarations: [
     AppComponent,
     HeaderComponent,
-    ShoppingListComponent,
-    RecipeListComponent,
-    RecipeItemComponent,
-    RecipeDetailComponent,
     RecipesComponent,
+    RecipeListComponent,
+    RecipeDetailComponent,
+    RecipeItemComponent,
+    ShoppingListComponent,
     ShoppingEditComponent
   ],
   imports: [
